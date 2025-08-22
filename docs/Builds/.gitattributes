@@ -1,4 +1,0 @@
-*.wasm filter=lfs diff=lfs merge=lfs -text
-*.data filter=lfs diff=lfs merge=lfs -text
-*.framework.js filter=lfs diff=lfs merge=lfs -text
-*.loader.js filter=lfs diff=lfs merge=lfs -text
